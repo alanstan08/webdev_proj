@@ -1,2 +1,3 @@
-# webdev_project
-All code in the master branch 
+# CUSTOMER MANAGEMENT API
+A small miniproject of mine where customers can order items.
+Can perform basic CRUD operations where one can add, update, remove and delete customer information.
